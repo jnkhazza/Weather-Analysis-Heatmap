@@ -1,1 +1,1 @@
-g_key = "AIzaSyClJj_rV86QXZ32jdMuuOKhaOy9Mv98j5I"
+g_key = "my_api"

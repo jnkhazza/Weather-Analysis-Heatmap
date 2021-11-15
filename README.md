@@ -1,5 +1,1 @@
-# api-challenge
-API HW
-
-Analysis Located in WeatherPy notebook
-All aother info is saved in respective folders
+WeatherPy - Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using citiPy and the OpenWeatherMap API(https://openweathermap.org/api). Analysis of Weather contains a series of scatter plots and linear regression models relfecting the relationship between various elements of Weather (Temp, Humidity, Cloudiness, Wind Speed) and Latitude for the selected ~500 cities. 
